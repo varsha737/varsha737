@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Varsha!
+# 👋 Hi there, I'm Ritu Varsha!
 
 I'm a passionate Full Stack Developer with a strong interest in building real-world, AI-powered web applications. I love learning new technologies and turning ideas into impactful projects.
 
