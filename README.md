@@ -16,7 +16,7 @@ I'm a passionate Full Stack Developer with a strong interest in building real-wo
 - Advanced Backend Development with Node.js & Express
 - OpenAI API integration for AI features
 - System Design & Scalable Architecture
-- CI/CD and DevOps basics
+- DevOps basics
 
 ---
 
